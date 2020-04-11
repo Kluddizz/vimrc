@@ -1,5 +1,8 @@
 # The lightweight good-looking vimrc
 
+## Preview
+![Preview](images/vim_preview.png)
+
 ## Install instructions
 
 ```
