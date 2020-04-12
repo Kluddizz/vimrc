@@ -6,6 +6,7 @@ declare -a repos=(
 	"vim-airline/vim-airline"
 	"kien/ctrlp.vim"
 	"prettier/vim-prettier"
+	"lervag/vimtex"
 )
 
 vimdir=~/.vim
